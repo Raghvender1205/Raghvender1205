@@ -1,5 +1,5 @@
 ### Hi there, I'm Raghvender 👋
-<a href="mailto:raghvender1205l@gmail.com">![raghvender1205@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="<www.linkedin.com/in/raghvender-changotra-1749881a1>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:raghvender1205l@gmail.com">![raghvender1205@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="www.linkedin.com/in/raghvender-changotra-1749881a1">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
 - 🔭 I’m currently working on many projects like PyTorchC++ and CUDA Plan2Scene and implementing Switch Transformers (Google). 
