@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on completely understanding PyTorch Framework and implementing its every feature, you can check ```PyTorch_Manual``` repository. 
 - 🌱 I’m currently learning Pytorch C++ and CUDA Programming
-- 👯 I’m looking to collaborate on Machine Learning Frameworks and Python Backend Development
+- 👯 I’m looking to collaborate on AI and Machine Learning Frameworks and Python Backend Development
 - 🤔 I’m looking for help with Website for my Portfolio.
 - 💬 Ask me about AI and its new developments
 - 📫 How to reach me: raghvender1205@gmail.com
