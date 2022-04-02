@@ -15,6 +15,8 @@ View Stats in Github
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raghvender1205&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Raghvender1205)](https://github.com/ryo-ma/github-profile-trophy)
+
 My Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghvender1205&layout=compact)
